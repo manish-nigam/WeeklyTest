@@ -1,0 +1,21 @@
+.container{
+    background-color: black;
+    color: white;
+    display: flex;
+     
+}
+#title{
+    width: 60%;
+}
+#menu{
+    width: 40%;
+    margin-top: 15px;
+
+}
+a{
+    margin-right: 30px;
+     
+}
+ a:hover{
+    color: white;
+ }
